@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/confirmation-message-ui.git
+git clone https://github.com/Mabacyaomj/confirmation-message-ui.git
 cd confirmation-message-ui
 Open the index.html file in your browser to view the UI:
 
