@@ -40,7 +40,7 @@
 <body class="relative flex items-center justify-center h-screen">
     <div class="relative bg-white rounded-3xl shadow-2xl w-96 h-80 flex flex-col items-center justify-center p-8 border border-gray-200 animate-fadeIn">
         <div class="bg-gray-800 h-16 w-16 rounded-full flex items-center justify-center mb-4 shadow-md">
-            <img src="../dist/img/check.png" alt="Check Icon" class="h-8 w-8">
+            <img src="./asstes/img/check.png" alt="Check Icon" class="h-8 w-8">
         </div>
         <div class="text-gray-800 text-xl font-semibold mb-3">Profile Changed</div>
         <div class="text-gray-600 text-base">Your status has been changed successfully.</div>
