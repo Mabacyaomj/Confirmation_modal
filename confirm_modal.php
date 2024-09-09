@@ -11,7 +11,7 @@
     <div id="modal" class="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50 hidden">
         <div class="relative bg-white rounded-lg shadow-lg max-w-md w-full p-6 border border-gray-300 flex flex-col items-center justify-center">
             <div class="bg-indigo-600 h-16 w-16 rounded-full flex items-center justify-center mb-6 shadow-md">
-                <img src="./check.png" alt="Check Icon" class="h-8 w-8">
+                <img src="./assets/img/check.png" alt="Check Icon" class="h-8 w-8">
             </div>
             <div class="text-gray-900 text-2xl font-semibold mb-4 text-center">Profile Updated</div>
             <div class="text-gray-700 text-base text-center mb-6">Your profile has been updated successfully.</div>
